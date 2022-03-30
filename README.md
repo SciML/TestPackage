@@ -12,3 +12,5 @@ Pkg.add("MyPackage")
 1. Install the package
 2. Use it
 3. Profit
+
+18.337!
